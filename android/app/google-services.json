@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577484262519",
+    "project_id": "authtutotrial1",
+    "storage_bucket": "authtutotrial1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577484262519:android:fb3ce4a048ddb9d0a1ca72",
+        "android_client_info": {
+          "package_name": "com.example.authflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrA-tlcvnnkk-dV9BPfcsd1GK8_ODAhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577484262519:android:2dd6a6a19e0797c3a1ca72",
+        "android_client_info": {
+          "package_name": "com.example.someapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrA-tlcvnnkk-dV9BPfcsd1GK8_ODAhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
