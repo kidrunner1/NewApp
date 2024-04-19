@@ -78,16 +78,13 @@ class _LoginScreenState extends State<LoginScreen> {
                   height: 50,
                 ),
                 // logo
-                const Icon(
-                  Icons.lock,
-                  size: 100,
-                ),
+                Image.asset('lib/images/apple.png',height: 200,),
                 const SizedBox(
                   height: 50,
                 ),
                 // wellcomeback
                 Text(
-                  "ยินดีต้อนรับ !",
+                  "MY-APP ",
                   style: TextStyle(color: Colors.grey[700], fontSize: 18),
                 ),
                 const SizedBox(
